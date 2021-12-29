@@ -1,6 +1,5 @@
 # KTLTNDS
-Bài Tập Lớn Kỹ Thuật Lập Trình Nội Dung Số
-Thành viên:
+Bài Tập Lớn Kỹ Thuật Lập Trình Nội Dung Số  Thành viên:
   Nguyễn Mạnh Hùng - 20172590
   Triệu Việt Hoàng - 20172575
   Nguyễn Khắc Chiều - 20172435
