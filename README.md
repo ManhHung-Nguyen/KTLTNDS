@@ -8,4 +8,4 @@ Thành viên:
 Link Demo: https://manhhung-nguyen.itch.io/testgame
 
 Để thực hiện di chuyển vật thể nhấn phím Up-Down-Left-Right
-Để vật thể có thể bắn súng phun ra lửa nhấn phim Space
+Để vật thể có thể bắn súng phun ra lửa nhấn phím Space
